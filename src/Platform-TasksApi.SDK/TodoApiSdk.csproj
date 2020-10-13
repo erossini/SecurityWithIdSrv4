@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>PSC.TodoApiSdk</AssemblyName>
+    <RootNamespace>PSC.TodoApiSdk</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Platform-BaseApiSDK\BaseApiSDK.csproj" />
+  </ItemGroup>
+
+</Project>
